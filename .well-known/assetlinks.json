@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "me.abstraq.delta",
+  "target" : { "namespace": "android_app", "package_name": "me.abstraq.gratia",
                "sha256_cert_fingerprints": ["6B:3E:EE:52:E0:ED:0F:FA:98:55:5E:15:7C:20:75:3A:A5:25:A4:08:6E:C0:87:B6:93:38:64:DE:61:BB:C1:36"] }
 }]
