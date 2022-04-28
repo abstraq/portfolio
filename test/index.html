@@ -3,12 +3,13 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
+		<meta property="og:title" content="" />
 		<title>Lol</title>
-		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
 		<script>
-                   document.head.querySelector('meta[property="og:title"]').content = "yo";
+		   const urlParams = new URLSearchParams(window.location.search);
+                   document.head.querySelector('meta[property="og:title"]').content = urlParams.get("title") ?? "yo";
 		</script>
 		<p>{json woooo}</p>
 	</body>
