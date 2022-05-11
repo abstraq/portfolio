@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "me.abstraq.gratia",
-               "sha256_cert_fingerprints": ["6B:3E:EE:52:E0:ED:0F:FA:98:55:5E:15:7C:20:75:3A:A5:25:A4:08:6E:C0:87:B6:93:38:64:DE:61:BB:C1:36"] }
+               "sha256_cert_fingerprints": ["66:7E:C9:3A:3E:F2:2C:06:EB:2C:0D:38:AA:E0:F5:DF:D9:B4:05:F3:63:2E:0E:94:FA:DC:3D:25:EF:8E:76:1D"] }
 }]
